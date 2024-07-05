@@ -437,7 +437,6 @@ fichas.describe()[['exploraciones_hba1c_valor', 'exploraciones_glucemia_ayunas_v
 
 
 <div>
-<style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -449,7 +448,6 @@ fichas.describe()[['exploraciones_hba1c_valor', 'exploraciones_glucemia_ayunas_v
     .dataframe thead th {
         text-align: right;
     }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
